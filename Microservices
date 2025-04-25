@@ -1,0 +1,5 @@
+User Service – Manages user data.
+
+Order Service – Handles order placement.
+
+Notification Service – Sends emails or push notifications.
