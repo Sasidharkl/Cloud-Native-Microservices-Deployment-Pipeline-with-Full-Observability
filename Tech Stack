@@ -1,0 +1,11 @@
+Category                                    | Tools/Tech
+CI/CD                                       | GitHub Actions, Jenkins
+Containerization                            | Docker
+Orchestration                               | Kubernetes (Amazon EKS)
+Cloud Infrastructure                        | AWS (EKS, RDS, S3, EC2, IAM)
+IaC                                         | Terraform
+Monitoring                                  | Prometheus, Grafana
+Logging                                     | Fluentd, Elasticsearch, Kibana
+Security                                    | TLS, IAM, RBAC, AWS Secrets Manager
+Version Control                             | Git & GitHub
+Programming Language                        | Python (for microservices), Shell scripting
