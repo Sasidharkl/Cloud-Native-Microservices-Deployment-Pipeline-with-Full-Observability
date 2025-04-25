@@ -1,0 +1,32 @@
+cloud-native-pipeline/
+│
+├── services/
+│   ├── user-service/
+│   │   ├── app.py
+│   │   ├── requirements.txt
+│   │   └── Dockerfile
+│   ├── order-service/
+│   └── notification-service/
+│
+├── k8s-manifests/
+│   ├── user-deployment.yaml
+│   ├── service.yaml
+│   └── ingress.yaml
+│
+├── terraform/
+│   ├── main.tf
+│   ├── variables.tf
+│   └── outputs.tf
+│
+├── jenkins/
+│   └── Jenkinsfile
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yaml
+│
+├── monitoring/
+│   ├── prometheus/
+│   └── grafana/
+│
+└── README.md
